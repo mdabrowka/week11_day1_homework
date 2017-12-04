@@ -15,4 +15,9 @@
 'the murderer is rick'
 // Episode 7
 
-// Episode 8
+var counter = 10;
+
+while (counter >= 0) {
+  console.log('The world domination will happen in ' + counter + ' seconds');
+  counter--;
+}
