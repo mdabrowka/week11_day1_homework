@@ -12,7 +12,7 @@
 // Episode 5
 'Poirot'
 // Episode 6
-
+'the murderer is rick'
 // Episode 7
 
 // Episode 8
